@@ -1,0 +1,962 @@
+[
+  {
+    "binary": "000000",
+    "number": 1,
+    "name": "Hexagram 1",
+    "judgment": "This is the judgment for hexagram 1.",
+    "image": "This is the image for hexagram 1.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 1.",
+      "line_2": "Changing line 2 text for hexagram 1.",
+      "line_3": "Changing line 3 text for hexagram 1.",
+      "line_4": "Changing line 4 text for hexagram 1.",
+      "line_5": "Changing line 5 text for hexagram 1.",
+      "line_6": "Changing line 6 text for hexagram 1."
+    }
+  },
+  {
+    "binary": "000001",
+    "number": 2,
+    "name": "Hexagram 2",
+    "judgment": "This is the judgment for hexagram 2.",
+    "image": "This is the image for hexagram 2.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 2.",
+      "line_2": "Changing line 2 text for hexagram 2.",
+      "line_3": "Changing line 3 text for hexagram 2.",
+      "line_4": "Changing line 4 text for hexagram 2.",
+      "line_5": "Changing line 5 text for hexagram 2.",
+      "line_6": "Changing line 6 text for hexagram 2."
+    }
+  },
+  {
+    "binary": "000010",
+    "number": 3,
+    "name": "Hexagram 3",
+    "judgment": "This is the judgment for hexagram 3.",
+    "image": "This is the image for hexagram 3.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 3.",
+      "line_2": "Changing line 2 text for hexagram 3.",
+      "line_3": "Changing line 3 text for hexagram 3.",
+      "line_4": "Changing line 4 text for hexagram 3.",
+      "line_5": "Changing line 5 text for hexagram 3.",
+      "line_6": "Changing line 6 text for hexagram 3."
+    }
+  },
+  {
+    "binary": "000011",
+    "number": 4,
+    "name": "Hexagram 4",
+    "judgment": "This is the judgment for hexagram 4.",
+    "image": "This is the image for hexagram 4.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 4.",
+      "line_2": "Changing line 2 text for hexagram 4.",
+      "line_3": "Changing line 3 text for hexagram 4.",
+      "line_4": "Changing line 4 text for hexagram 4.",
+      "line_5": "Changing line 5 text for hexagram 4.",
+      "line_6": "Changing line 6 text for hexagram 4."
+    }
+  },
+  {
+    "binary": "000100",
+    "number": 5,
+    "name": "Hexagram 5",
+    "judgment": "This is the judgment for hexagram 5.",
+    "image": "This is the image for hexagram 5.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 5.",
+      "line_2": "Changing line 2 text for hexagram 5.",
+      "line_3": "Changing line 3 text for hexagram 5.",
+      "line_4": "Changing line 4 text for hexagram 5.",
+      "line_5": "Changing line 5 text for hexagram 5.",
+      "line_6": "Changing line 6 text for hexagram 5."
+    }
+  },
+  {
+    "binary": "000101",
+    "number": 6,
+    "name": "Hexagram 6",
+    "judgment": "This is the judgment for hexagram 6.",
+    "image": "This is the image for hexagram 6.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 6.",
+      "line_2": "Changing line 2 text for hexagram 6.",
+      "line_3": "Changing line 3 text for hexagram 6.",
+      "line_4": "Changing line 4 text for hexagram 6.",
+      "line_5": "Changing line 5 text for hexagram 6.",
+      "line_6": "Changing line 6 text for hexagram 6."
+    }
+  },
+  {
+    "binary": "000110",
+    "number": 7,
+    "name": "Hexagram 7",
+    "judgment": "This is the judgment for hexagram 7.",
+    "image": "This is the image for hexagram 7.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 7.",
+      "line_2": "Changing line 2 text for hexagram 7.",
+      "line_3": "Changing line 3 text for hexagram 7.",
+      "line_4": "Changing line 4 text for hexagram 7.",
+      "line_5": "Changing line 5 text for hexagram 7.",
+      "line_6": "Changing line 6 text for hexagram 7."
+    }
+  },
+  {
+    "binary": "000111",
+    "number": 8,
+    "name": "Hexagram 8",
+    "judgment": "This is the judgment for hexagram 8.",
+    "image": "This is the image for hexagram 8.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 8.",
+      "line_2": "Changing line 2 text for hexagram 8.",
+      "line_3": "Changing line 3 text for hexagram 8.",
+      "line_4": "Changing line 4 text for hexagram 8.",
+      "line_5": "Changing line 5 text for hexagram 8.",
+      "line_6": "Changing line 6 text for hexagram 8."
+    }
+  },
+  {
+    "binary": "001000",
+    "number": 9,
+    "name": "Hexagram 9",
+    "judgment": "This is the judgment for hexagram 9.",
+    "image": "This is the image for hexagram 9.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 9.",
+      "line_2": "Changing line 2 text for hexagram 9.",
+      "line_3": "Changing line 3 text for hexagram 9.",
+      "line_4": "Changing line 4 text for hexagram 9.",
+      "line_5": "Changing line 5 text for hexagram 9.",
+      "line_6": "Changing line 6 text for hexagram 9."
+    }
+  },
+  {
+    "binary": "001001",
+    "number": 10,
+    "name": "Hexagram 10",
+    "judgment": "This is the judgment for hexagram 10.",
+    "image": "This is the image for hexagram 10.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 10.",
+      "line_2": "Changing line 2 text for hexagram 10.",
+      "line_3": "Changing line 3 text for hexagram 10.",
+      "line_4": "Changing line 4 text for hexagram 10.",
+      "line_5": "Changing line 5 text for hexagram 10.",
+      "line_6": "Changing line 6 text for hexagram 10."
+    }
+  },
+  {
+    "binary": "001010",
+    "number": 11,
+    "name": "Hexagram 11",
+    "judgment": "This is the judgment for hexagram 11.",
+    "image": "This is the image for hexagram 11.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 11.",
+      "line_2": "Changing line 2 text for hexagram 11.",
+      "line_3": "Changing line 3 text for hexagram 11.",
+      "line_4": "Changing line 4 text for hexagram 11.",
+      "line_5": "Changing line 5 text for hexagram 11.",
+      "line_6": "Changing line 6 text for hexagram 11."
+    }
+  },
+  {
+    "binary": "001011",
+    "number": 12,
+    "name": "Hexagram 12",
+    "judgment": "This is the judgment for hexagram 12.",
+    "image": "This is the image for hexagram 12.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 12.",
+      "line_2": "Changing line 2 text for hexagram 12.",
+      "line_3": "Changing line 3 text for hexagram 12.",
+      "line_4": "Changing line 4 text for hexagram 12.",
+      "line_5": "Changing line 5 text for hexagram 12.",
+      "line_6": "Changing line 6 text for hexagram 12."
+    }
+  },
+  {
+    "binary": "001100",
+    "number": 13,
+    "name": "Hexagram 13",
+    "judgment": "This is the judgment for hexagram 13.",
+    "image": "This is the image for hexagram 13.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 13.",
+      "line_2": "Changing line 2 text for hexagram 13.",
+      "line_3": "Changing line 3 text for hexagram 13.",
+      "line_4": "Changing line 4 text for hexagram 13.",
+      "line_5": "Changing line 5 text for hexagram 13.",
+      "line_6": "Changing line 6 text for hexagram 13."
+    }
+  },
+  {
+    "binary": "001101",
+    "number": 14,
+    "name": "Hexagram 14",
+    "judgment": "This is the judgment for hexagram 14.",
+    "image": "This is the image for hexagram 14.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 14.",
+      "line_2": "Changing line 2 text for hexagram 14.",
+      "line_3": "Changing line 3 text for hexagram 14.",
+      "line_4": "Changing line 4 text for hexagram 14.",
+      "line_5": "Changing line 5 text for hexagram 14.",
+      "line_6": "Changing line 6 text for hexagram 14."
+    }
+  },
+  {
+    "binary": "001110",
+    "number": 15,
+    "name": "Hexagram 15",
+    "judgment": "This is the judgment for hexagram 15.",
+    "image": "This is the image for hexagram 15.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 15.",
+      "line_2": "Changing line 2 text for hexagram 15.",
+      "line_3": "Changing line 3 text for hexagram 15.",
+      "line_4": "Changing line 4 text for hexagram 15.",
+      "line_5": "Changing line 5 text for hexagram 15.",
+      "line_6": "Changing line 6 text for hexagram 15."
+    }
+  },
+  {
+    "binary": "001111",
+    "number": 16,
+    "name": "Hexagram 16",
+    "judgment": "This is the judgment for hexagram 16.",
+    "image": "This is the image for hexagram 16.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 16.",
+      "line_2": "Changing line 2 text for hexagram 16.",
+      "line_3": "Changing line 3 text for hexagram 16.",
+      "line_4": "Changing line 4 text for hexagram 16.",
+      "line_5": "Changing line 5 text for hexagram 16.",
+      "line_6": "Changing line 6 text for hexagram 16."
+    }
+  },
+  {
+    "binary": "010000",
+    "number": 17,
+    "name": "Hexagram 17",
+    "judgment": "This is the judgment for hexagram 17.",
+    "image": "This is the image for hexagram 17.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 17.",
+      "line_2": "Changing line 2 text for hexagram 17.",
+      "line_3": "Changing line 3 text for hexagram 17.",
+      "line_4": "Changing line 4 text for hexagram 17.",
+      "line_5": "Changing line 5 text for hexagram 17.",
+      "line_6": "Changing line 6 text for hexagram 17."
+    }
+  },
+  {
+    "binary": "010001",
+    "number": 18,
+    "name": "Hexagram 18",
+    "judgment": "This is the judgment for hexagram 18.",
+    "image": "This is the image for hexagram 18.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 18.",
+      "line_2": "Changing line 2 text for hexagram 18.",
+      "line_3": "Changing line 3 text for hexagram 18.",
+      "line_4": "Changing line 4 text for hexagram 18.",
+      "line_5": "Changing line 5 text for hexagram 18.",
+      "line_6": "Changing line 6 text for hexagram 18."
+    }
+  },
+  {
+    "binary": "010010",
+    "number": 19,
+    "name": "Hexagram 19",
+    "judgment": "This is the judgment for hexagram 19.",
+    "image": "This is the image for hexagram 19.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 19.",
+      "line_2": "Changing line 2 text for hexagram 19.",
+      "line_3": "Changing line 3 text for hexagram 19.",
+      "line_4": "Changing line 4 text for hexagram 19.",
+      "line_5": "Changing line 5 text for hexagram 19.",
+      "line_6": "Changing line 6 text for hexagram 19."
+    }
+  },
+  {
+    "binary": "010011",
+    "number": 20,
+    "name": "Hexagram 20",
+    "judgment": "This is the judgment for hexagram 20.",
+    "image": "This is the image for hexagram 20.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 20.",
+      "line_2": "Changing line 2 text for hexagram 20.",
+      "line_3": "Changing line 3 text for hexagram 20.",
+      "line_4": "Changing line 4 text for hexagram 20.",
+      "line_5": "Changing line 5 text for hexagram 20.",
+      "line_6": "Changing line 6 text for hexagram 20."
+    }
+  },
+  {
+    "binary": "010100",
+    "number": 21,
+    "name": "Hexagram 21",
+    "judgment": "This is the judgment for hexagram 21.",
+    "image": "This is the image for hexagram 21.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 21.",
+      "line_2": "Changing line 2 text for hexagram 21.",
+      "line_3": "Changing line 3 text for hexagram 21.",
+      "line_4": "Changing line 4 text for hexagram 21.",
+      "line_5": "Changing line 5 text for hexagram 21.",
+      "line_6": "Changing line 6 text for hexagram 21."
+    }
+  },
+  {
+    "binary": "010101",
+    "number": 22,
+    "name": "Hexagram 22",
+    "judgment": "This is the judgment for hexagram 22.",
+    "image": "This is the image for hexagram 22.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 22.",
+      "line_2": "Changing line 2 text for hexagram 22.",
+      "line_3": "Changing line 3 text for hexagram 22.",
+      "line_4": "Changing line 4 text for hexagram 22.",
+      "line_5": "Changing line 5 text for hexagram 22.",
+      "line_6": "Changing line 6 text for hexagram 22."
+    }
+  },
+  {
+    "binary": "010110",
+    "number": 23,
+    "name": "Hexagram 23",
+    "judgment": "This is the judgment for hexagram 23.",
+    "image": "This is the image for hexagram 23.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 23.",
+      "line_2": "Changing line 2 text for hexagram 23.",
+      "line_3": "Changing line 3 text for hexagram 23.",
+      "line_4": "Changing line 4 text for hexagram 23.",
+      "line_5": "Changing line 5 text for hexagram 23.",
+      "line_6": "Changing line 6 text for hexagram 23."
+    }
+  },
+  {
+    "binary": "010111",
+    "number": 24,
+    "name": "Hexagram 24",
+    "judgment": "This is the judgment for hexagram 24.",
+    "image": "This is the image for hexagram 24.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 24.",
+      "line_2": "Changing line 2 text for hexagram 24.",
+      "line_3": "Changing line 3 text for hexagram 24.",
+      "line_4": "Changing line 4 text for hexagram 24.",
+      "line_5": "Changing line 5 text for hexagram 24.",
+      "line_6": "Changing line 6 text for hexagram 24."
+    }
+  },
+  {
+    "binary": "011000",
+    "number": 25,
+    "name": "Hexagram 25",
+    "judgment": "This is the judgment for hexagram 25.",
+    "image": "This is the image for hexagram 25.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 25.",
+      "line_2": "Changing line 2 text for hexagram 25.",
+      "line_3": "Changing line 3 text for hexagram 25.",
+      "line_4": "Changing line 4 text for hexagram 25.",
+      "line_5": "Changing line 5 text for hexagram 25.",
+      "line_6": "Changing line 6 text for hexagram 25."
+    }
+  },
+  {
+    "binary": "011001",
+    "number": 26,
+    "name": "Hexagram 26",
+    "judgment": "This is the judgment for hexagram 26.",
+    "image": "This is the image for hexagram 26.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 26.",
+      "line_2": "Changing line 2 text for hexagram 26.",
+      "line_3": "Changing line 3 text for hexagram 26.",
+      "line_4": "Changing line 4 text for hexagram 26.",
+      "line_5": "Changing line 5 text for hexagram 26.",
+      "line_6": "Changing line 6 text for hexagram 26."
+    }
+  },
+  {
+    "binary": "011010",
+    "number": 27,
+    "name": "Hexagram 27",
+    "judgment": "This is the judgment for hexagram 27.",
+    "image": "This is the image for hexagram 27.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 27.",
+      "line_2": "Changing line 2 text for hexagram 27.",
+      "line_3": "Changing line 3 text for hexagram 27.",
+      "line_4": "Changing line 4 text for hexagram 27.",
+      "line_5": "Changing line 5 text for hexagram 27.",
+      "line_6": "Changing line 6 text for hexagram 27."
+    }
+  },
+  {
+    "binary": "011011",
+    "number": 28,
+    "name": "Hexagram 28",
+    "judgment": "This is the judgment for hexagram 28.",
+    "image": "This is the image for hexagram 28.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 28.",
+      "line_2": "Changing line 2 text for hexagram 28.",
+      "line_3": "Changing line 3 text for hexagram 28.",
+      "line_4": "Changing line 4 text for hexagram 28.",
+      "line_5": "Changing line 5 text for hexagram 28.",
+      "line_6": "Changing line 6 text for hexagram 28."
+    }
+  },
+  {
+    "binary": "011100",
+    "number": 29,
+    "name": "Hexagram 29",
+    "judgment": "This is the judgment for hexagram 29.",
+    "image": "This is the image for hexagram 29.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 29.",
+      "line_2": "Changing line 2 text for hexagram 29.",
+      "line_3": "Changing line 3 text for hexagram 29.",
+      "line_4": "Changing line 4 text for hexagram 29.",
+      "line_5": "Changing line 5 text for hexagram 29.",
+      "line_6": "Changing line 6 text for hexagram 29."
+    }
+  },
+  {
+    "binary": "011101",
+    "number": 30,
+    "name": "Hexagram 30",
+    "judgment": "This is the judgment for hexagram 30.",
+    "image": "This is the image for hexagram 30.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 30.",
+      "line_2": "Changing line 2 text for hexagram 30.",
+      "line_3": "Changing line 3 text for hexagram 30.",
+      "line_4": "Changing line 4 text for hexagram 30.",
+      "line_5": "Changing line 5 text for hexagram 30.",
+      "line_6": "Changing line 6 text for hexagram 30."
+    }
+  },
+  {
+    "binary": "011110",
+    "number": 31,
+    "name": "Hexagram 31",
+    "judgment": "This is the judgment for hexagram 31.",
+    "image": "This is the image for hexagram 31.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 31.",
+      "line_2": "Changing line 2 text for hexagram 31.",
+      "line_3": "Changing line 3 text for hexagram 31.",
+      "line_4": "Changing line 4 text for hexagram 31.",
+      "line_5": "Changing line 5 text for hexagram 31.",
+      "line_6": "Changing line 6 text for hexagram 31."
+    }
+  },
+  {
+    "binary": "011111",
+    "number": 32,
+    "name": "Hexagram 32",
+    "judgment": "This is the judgment for hexagram 32.",
+    "image": "This is the image for hexagram 32.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 32.",
+      "line_2": "Changing line 2 text for hexagram 32.",
+      "line_3": "Changing line 3 text for hexagram 32.",
+      "line_4": "Changing line 4 text for hexagram 32.",
+      "line_5": "Changing line 5 text for hexagram 32.",
+      "line_6": "Changing line 6 text for hexagram 32."
+    }
+  },
+  {
+    "binary": "100000",
+    "number": 33,
+    "name": "Hexagram 33",
+    "judgment": "This is the judgment for hexagram 33.",
+    "image": "This is the image for hexagram 33.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 33.",
+      "line_2": "Changing line 2 text for hexagram 33.",
+      "line_3": "Changing line 3 text for hexagram 33.",
+      "line_4": "Changing line 4 text for hexagram 33.",
+      "line_5": "Changing line 5 text for hexagram 33.",
+      "line_6": "Changing line 6 text for hexagram 33."
+    }
+  },
+  {
+    "binary": "100001",
+    "number": 34,
+    "name": "Hexagram 34",
+    "judgment": "This is the judgment for hexagram 34.",
+    "image": "This is the image for hexagram 34.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 34.",
+      "line_2": "Changing line 2 text for hexagram 34.",
+      "line_3": "Changing line 3 text for hexagram 34.",
+      "line_4": "Changing line 4 text for hexagram 34.",
+      "line_5": "Changing line 5 text for hexagram 34.",
+      "line_6": "Changing line 6 text for hexagram 34."
+    }
+  },
+  {
+    "binary": "100010",
+    "number": 35,
+    "name": "Hexagram 35",
+    "judgment": "This is the judgment for hexagram 35.",
+    "image": "This is the image for hexagram 35.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 35.",
+      "line_2": "Changing line 2 text for hexagram 35.",
+      "line_3": "Changing line 3 text for hexagram 35.",
+      "line_4": "Changing line 4 text for hexagram 35.",
+      "line_5": "Changing line 5 text for hexagram 35.",
+      "line_6": "Changing line 6 text for hexagram 35."
+    }
+  },
+  {
+    "binary": "100011",
+    "number": 36,
+    "name": "Hexagram 36",
+    "judgment": "This is the judgment for hexagram 36.",
+    "image": "This is the image for hexagram 36.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 36.",
+      "line_2": "Changing line 2 text for hexagram 36.",
+      "line_3": "Changing line 3 text for hexagram 36.",
+      "line_4": "Changing line 4 text for hexagram 36.",
+      "line_5": "Changing line 5 text for hexagram 36.",
+      "line_6": "Changing line 6 text for hexagram 36."
+    }
+  },
+  {
+    "binary": "100100",
+    "number": 37,
+    "name": "Hexagram 37",
+    "judgment": "This is the judgment for hexagram 37.",
+    "image": "This is the image for hexagram 37.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 37.",
+      "line_2": "Changing line 2 text for hexagram 37.",
+      "line_3": "Changing line 3 text for hexagram 37.",
+      "line_4": "Changing line 4 text for hexagram 37.",
+      "line_5": "Changing line 5 text for hexagram 37.",
+      "line_6": "Changing line 6 text for hexagram 37."
+    }
+  },
+  {
+    "binary": "100101",
+    "number": 38,
+    "name": "Hexagram 38",
+    "judgment": "This is the judgment for hexagram 38.",
+    "image": "This is the image for hexagram 38.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 38.",
+      "line_2": "Changing line 2 text for hexagram 38.",
+      "line_3": "Changing line 3 text for hexagram 38.",
+      "line_4": "Changing line 4 text for hexagram 38.",
+      "line_5": "Changing line 5 text for hexagram 38.",
+      "line_6": "Changing line 6 text for hexagram 38."
+    }
+  },
+  {
+    "binary": "100110",
+    "number": 39,
+    "name": "Hexagram 39",
+    "judgment": "This is the judgment for hexagram 39.",
+    "image": "This is the image for hexagram 39.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 39.",
+      "line_2": "Changing line 2 text for hexagram 39.",
+      "line_3": "Changing line 3 text for hexagram 39.",
+      "line_4": "Changing line 4 text for hexagram 39.",
+      "line_5": "Changing line 5 text for hexagram 39.",
+      "line_6": "Changing line 6 text for hexagram 39."
+    }
+  },
+  {
+    "binary": "100111",
+    "number": 40,
+    "name": "Hexagram 40",
+    "judgment": "This is the judgment for hexagram 40.",
+    "image": "This is the image for hexagram 40.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 40.",
+      "line_2": "Changing line 2 text for hexagram 40.",
+      "line_3": "Changing line 3 text for hexagram 40.",
+      "line_4": "Changing line 4 text for hexagram 40.",
+      "line_5": "Changing line 5 text for hexagram 40.",
+      "line_6": "Changing line 6 text for hexagram 40."
+    }
+  },
+  {
+    "binary": "101000",
+    "number": 41,
+    "name": "Hexagram 41",
+    "judgment": "This is the judgment for hexagram 41.",
+    "image": "This is the image for hexagram 41.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 41.",
+      "line_2": "Changing line 2 text for hexagram 41.",
+      "line_3": "Changing line 3 text for hexagram 41.",
+      "line_4": "Changing line 4 text for hexagram 41.",
+      "line_5": "Changing line 5 text for hexagram 41.",
+      "line_6": "Changing line 6 text for hexagram 41."
+    }
+  },
+  {
+    "binary": "101001",
+    "number": 42,
+    "name": "Hexagram 42",
+    "judgment": "This is the judgment for hexagram 42.",
+    "image": "This is the image for hexagram 42.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 42.",
+      "line_2": "Changing line 2 text for hexagram 42.",
+      "line_3": "Changing line 3 text for hexagram 42.",
+      "line_4": "Changing line 4 text for hexagram 42.",
+      "line_5": "Changing line 5 text for hexagram 42.",
+      "line_6": "Changing line 6 text for hexagram 42."
+    }
+  },
+  {
+    "binary": "101010",
+    "number": 43,
+    "name": "Hexagram 43",
+    "judgment": "This is the judgment for hexagram 43.",
+    "image": "This is the image for hexagram 43.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 43.",
+      "line_2": "Changing line 2 text for hexagram 43.",
+      "line_3": "Changing line 3 text for hexagram 43.",
+      "line_4": "Changing line 4 text for hexagram 43.",
+      "line_5": "Changing line 5 text for hexagram 43.",
+      "line_6": "Changing line 6 text for hexagram 43."
+    }
+  },
+  {
+    "binary": "101011",
+    "number": 44,
+    "name": "Hexagram 44",
+    "judgment": "This is the judgment for hexagram 44.",
+    "image": "This is the image for hexagram 44.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 44.",
+      "line_2": "Changing line 2 text for hexagram 44.",
+      "line_3": "Changing line 3 text for hexagram 44.",
+      "line_4": "Changing line 4 text for hexagram 44.",
+      "line_5": "Changing line 5 text for hexagram 44.",
+      "line_6": "Changing line 6 text for hexagram 44."
+    }
+  },
+  {
+    "binary": "101100",
+    "number": 45,
+    "name": "Hexagram 45",
+    "judgment": "This is the judgment for hexagram 45.",
+    "image": "This is the image for hexagram 45.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 45.",
+      "line_2": "Changing line 2 text for hexagram 45.",
+      "line_3": "Changing line 3 text for hexagram 45.",
+      "line_4": "Changing line 4 text for hexagram 45.",
+      "line_5": "Changing line 5 text for hexagram 45.",
+      "line_6": "Changing line 6 text for hexagram 45."
+    }
+  },
+  {
+    "binary": "101101",
+    "number": 46,
+    "name": "Hexagram 46",
+    "judgment": "This is the judgment for hexagram 46.",
+    "image": "This is the image for hexagram 46.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 46.",
+      "line_2": "Changing line 2 text for hexagram 46.",
+      "line_3": "Changing line 3 text for hexagram 46.",
+      "line_4": "Changing line 4 text for hexagram 46.",
+      "line_5": "Changing line 5 text for hexagram 46.",
+      "line_6": "Changing line 6 text for hexagram 46."
+    }
+  },
+  {
+    "binary": "101110",
+    "number": 47,
+    "name": "Hexagram 47",
+    "judgment": "This is the judgment for hexagram 47.",
+    "image": "This is the image for hexagram 47.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 47.",
+      "line_2": "Changing line 2 text for hexagram 47.",
+      "line_3": "Changing line 3 text for hexagram 47.",
+      "line_4": "Changing line 4 text for hexagram 47.",
+      "line_5": "Changing line 5 text for hexagram 47.",
+      "line_6": "Changing line 6 text for hexagram 47."
+    }
+  },
+  {
+    "binary": "101111",
+    "number": 48,
+    "name": "Hexagram 48",
+    "judgment": "This is the judgment for hexagram 48.",
+    "image": "This is the image for hexagram 48.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 48.",
+      "line_2": "Changing line 2 text for hexagram 48.",
+      "line_3": "Changing line 3 text for hexagram 48.",
+      "line_4": "Changing line 4 text for hexagram 48.",
+      "line_5": "Changing line 5 text for hexagram 48.",
+      "line_6": "Changing line 6 text for hexagram 48."
+    }
+  },
+  {
+    "binary": "110000",
+    "number": 49,
+    "name": "Hexagram 49",
+    "judgment": "This is the judgment for hexagram 49.",
+    "image": "This is the image for hexagram 49.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 49.",
+      "line_2": "Changing line 2 text for hexagram 49.",
+      "line_3": "Changing line 3 text for hexagram 49.",
+      "line_4": "Changing line 4 text for hexagram 49.",
+      "line_5": "Changing line 5 text for hexagram 49.",
+      "line_6": "Changing line 6 text for hexagram 49."
+    }
+  },
+  {
+    "binary": "110001",
+    "number": 50,
+    "name": "Hexagram 50",
+    "judgment": "This is the judgment for hexagram 50.",
+    "image": "This is the image for hexagram 50.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 50.",
+      "line_2": "Changing line 2 text for hexagram 50.",
+      "line_3": "Changing line 3 text for hexagram 50.",
+      "line_4": "Changing line 4 text for hexagram 50.",
+      "line_5": "Changing line 5 text for hexagram 50.",
+      "line_6": "Changing line 6 text for hexagram 50."
+    }
+  },
+  {
+    "binary": "110010",
+    "number": 51,
+    "name": "Hexagram 51",
+    "judgment": "This is the judgment for hexagram 51.",
+    "image": "This is the image for hexagram 51.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 51.",
+      "line_2": "Changing line 2 text for hexagram 51.",
+      "line_3": "Changing line 3 text for hexagram 51.",
+      "line_4": "Changing line 4 text for hexagram 51.",
+      "line_5": "Changing line 5 text for hexagram 51.",
+      "line_6": "Changing line 6 text for hexagram 51."
+    }
+  },
+  {
+    "binary": "110011",
+    "number": 52,
+    "name": "Hexagram 52",
+    "judgment": "This is the judgment for hexagram 52.",
+    "image": "This is the image for hexagram 52.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 52.",
+      "line_2": "Changing line 2 text for hexagram 52.",
+      "line_3": "Changing line 3 text for hexagram 52.",
+      "line_4": "Changing line 4 text for hexagram 52.",
+      "line_5": "Changing line 5 text for hexagram 52.",
+      "line_6": "Changing line 6 text for hexagram 52."
+    }
+  },
+  {
+    "binary": "110100",
+    "number": 53,
+    "name": "Hexagram 53",
+    "judgment": "This is the judgment for hexagram 53.",
+    "image": "This is the image for hexagram 53.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 53.",
+      "line_2": "Changing line 2 text for hexagram 53.",
+      "line_3": "Changing line 3 text for hexagram 53.",
+      "line_4": "Changing line 4 text for hexagram 53.",
+      "line_5": "Changing line 5 text for hexagram 53.",
+      "line_6": "Changing line 6 text for hexagram 53."
+    }
+  },
+  {
+    "binary": "110101",
+    "number": 54,
+    "name": "Hexagram 54",
+    "judgment": "This is the judgment for hexagram 54.",
+    "image": "This is the image for hexagram 54.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 54.",
+      "line_2": "Changing line 2 text for hexagram 54.",
+      "line_3": "Changing line 3 text for hexagram 54.",
+      "line_4": "Changing line 4 text for hexagram 54.",
+      "line_5": "Changing line 5 text for hexagram 54.",
+      "line_6": "Changing line 6 text for hexagram 54."
+    }
+  },
+  {
+    "binary": "110110",
+    "number": 55,
+    "name": "Hexagram 55",
+    "judgment": "This is the judgment for hexagram 55.",
+    "image": "This is the image for hexagram 55.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 55.",
+      "line_2": "Changing line 2 text for hexagram 55.",
+      "line_3": "Changing line 3 text for hexagram 55.",
+      "line_4": "Changing line 4 text for hexagram 55.",
+      "line_5": "Changing line 5 text for hexagram 55.",
+      "line_6": "Changing line 6 text for hexagram 55."
+    }
+  },
+  {
+    "binary": "110111",
+    "number": 56,
+    "name": "Hexagram 56",
+    "judgment": "This is the judgment for hexagram 56.",
+    "image": "This is the image for hexagram 56.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 56.",
+      "line_2": "Changing line 2 text for hexagram 56.",
+      "line_3": "Changing line 3 text for hexagram 56.",
+      "line_4": "Changing line 4 text for hexagram 56.",
+      "line_5": "Changing line 5 text for hexagram 56.",
+      "line_6": "Changing line 6 text for hexagram 56."
+    }
+  },
+  {
+    "binary": "111000",
+    "number": 57,
+    "name": "Hexagram 57",
+    "judgment": "This is the judgment for hexagram 57.",
+    "image": "This is the image for hexagram 57.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 57.",
+      "line_2": "Changing line 2 text for hexagram 57.",
+      "line_3": "Changing line 3 text for hexagram 57.",
+      "line_4": "Changing line 4 text for hexagram 57.",
+      "line_5": "Changing line 5 text for hexagram 57.",
+      "line_6": "Changing line 6 text for hexagram 57."
+    }
+  },
+  {
+    "binary": "111001",
+    "number": 58,
+    "name": "Hexagram 58",
+    "judgment": "This is the judgment for hexagram 58.",
+    "image": "This is the image for hexagram 58.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 58.",
+      "line_2": "Changing line 2 text for hexagram 58.",
+      "line_3": "Changing line 3 text for hexagram 58.",
+      "line_4": "Changing line 4 text for hexagram 58.",
+      "line_5": "Changing line 5 text for hexagram 58.",
+      "line_6": "Changing line 6 text for hexagram 58."
+    }
+  },
+  {
+    "binary": "111010",
+    "number": 59,
+    "name": "Hexagram 59",
+    "judgment": "This is the judgment for hexagram 59.",
+    "image": "This is the image for hexagram 59.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 59.",
+      "line_2": "Changing line 2 text for hexagram 59.",
+      "line_3": "Changing line 3 text for hexagram 59.",
+      "line_4": "Changing line 4 text for hexagram 59.",
+      "line_5": "Changing line 5 text for hexagram 59.",
+      "line_6": "Changing line 6 text for hexagram 59."
+    }
+  },
+  {
+    "binary": "111011",
+    "number": 60,
+    "name": "Hexagram 60",
+    "judgment": "This is the judgment for hexagram 60.",
+    "image": "This is the image for hexagram 60.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 60.",
+      "line_2": "Changing line 2 text for hexagram 60.",
+      "line_3": "Changing line 3 text for hexagram 60.",
+      "line_4": "Changing line 4 text for hexagram 60.",
+      "line_5": "Changing line 5 text for hexagram 60.",
+      "line_6": "Changing line 6 text for hexagram 60."
+    }
+  },
+  {
+    "binary": "111100",
+    "number": 61,
+    "name": "Hexagram 61",
+    "judgment": "This is the judgment for hexagram 61.",
+    "image": "This is the image for hexagram 61.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 61.",
+      "line_2": "Changing line 2 text for hexagram 61.",
+      "line_3": "Changing line 3 text for hexagram 61.",
+      "line_4": "Changing line 4 text for hexagram 61.",
+      "line_5": "Changing line 5 text for hexagram 61.",
+      "line_6": "Changing line 6 text for hexagram 61."
+    }
+  },
+  {
+    "binary": "111101",
+    "number": 62,
+    "name": "Hexagram 62",
+    "judgment": "This is the judgment for hexagram 62.",
+    "image": "This is the image for hexagram 62.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 62.",
+      "line_2": "Changing line 2 text for hexagram 62.",
+      "line_3": "Changing line 3 text for hexagram 62.",
+      "line_4": "Changing line 4 text for hexagram 62.",
+      "line_5": "Changing line 5 text for hexagram 62.",
+      "line_6": "Changing line 6 text for hexagram 62."
+    }
+  },
+  {
+    "binary": "111110",
+    "number": 63,
+    "name": "Hexagram 63",
+    "judgment": "This is the judgment for hexagram 63.",
+    "image": "This is the image for hexagram 63.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 63.",
+      "line_2": "Changing line 2 text for hexagram 63.",
+      "line_3": "Changing line 3 text for hexagram 63.",
+      "line_4": "Changing line 4 text for hexagram 63.",
+      "line_5": "Changing line 5 text for hexagram 63.",
+      "line_6": "Changing line 6 text for hexagram 63."
+    }
+  },
+  {
+    "binary": "111111",
+    "number": 64,
+    "name": "Hexagram 64",
+    "judgment": "This is the judgment for hexagram 64.",
+    "image": "This is the image for hexagram 64.",
+    "changing_lines": {
+      "line_1": "Changing line 1 text for hexagram 64.",
+      "line_2": "Changing line 2 text for hexagram 64.",
+      "line_3": "Changing line 3 text for hexagram 64.",
+      "line_4": "Changing line 4 text for hexagram 64.",
+      "line_5": "Changing line 5 text for hexagram 64.",
+      "line_6": "Changing line 6 text for hexagram 64."
+    }
+  }
+]

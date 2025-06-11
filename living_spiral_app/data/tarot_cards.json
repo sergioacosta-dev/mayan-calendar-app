@@ -1,0 +1,470 @@
+[
+  {
+    "name": "The Fool",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Fool",
+    "reversed": "Reversed meaning of The Fool"
+  },
+  {
+    "name": "The Magician",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Magician",
+    "reversed": "Reversed meaning of The Magician"
+  },
+  {
+    "name": "The High Priestess",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The High Priestess",
+    "reversed": "Reversed meaning of The High Priestess"
+  },
+  {
+    "name": "The Empress",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Empress",
+    "reversed": "Reversed meaning of The Empress"
+  },
+  {
+    "name": "The Emperor",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Emperor",
+    "reversed": "Reversed meaning of The Emperor"
+  },
+  {
+    "name": "The Hierophant",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Hierophant",
+    "reversed": "Reversed meaning of The Hierophant"
+  },
+  {
+    "name": "The Lovers",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Lovers",
+    "reversed": "Reversed meaning of The Lovers"
+  },
+  {
+    "name": "The Chariot",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Chariot",
+    "reversed": "Reversed meaning of The Chariot"
+  },
+  {
+    "name": "Strength",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of Strength",
+    "reversed": "Reversed meaning of Strength"
+  },
+  {
+    "name": "The Hermit",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Hermit",
+    "reversed": "Reversed meaning of The Hermit"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of Wheel of Fortune",
+    "reversed": "Reversed meaning of Wheel of Fortune"
+  },
+  {
+    "name": "Justice",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of Justice",
+    "reversed": "Reversed meaning of Justice"
+  },
+  {
+    "name": "The Hanged Man",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Hanged Man",
+    "reversed": "Reversed meaning of The Hanged Man"
+  },
+  {
+    "name": "Death",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of Death",
+    "reversed": "Reversed meaning of Death"
+  },
+  {
+    "name": "Temperance",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of Temperance",
+    "reversed": "Reversed meaning of Temperance"
+  },
+  {
+    "name": "The Devil",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Devil",
+    "reversed": "Reversed meaning of The Devil"
+  },
+  {
+    "name": "The Tower",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Tower",
+    "reversed": "Reversed meaning of The Tower"
+  },
+  {
+    "name": "The Star",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Star",
+    "reversed": "Reversed meaning of The Star"
+  },
+  {
+    "name": "The Moon",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Moon",
+    "reversed": "Reversed meaning of The Moon"
+  },
+  {
+    "name": "The Sun",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The Sun",
+    "reversed": "Reversed meaning of The Sun"
+  },
+  {
+    "name": "Judgement",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of Judgement",
+    "reversed": "Reversed meaning of Judgement"
+  },
+  {
+    "name": "The World",
+    "suit": "Major Arcana",
+    "upright": "Upright meaning of The World",
+    "reversed": "Reversed meaning of The World"
+  },
+  {
+    "name": "Ace of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of Ace of Wands",
+    "reversed": "Reversed meaning of Ace of Wands"
+  },
+  {
+    "name": "2 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 2 of Wands",
+    "reversed": "Reversed meaning of 2 of Wands"
+  },
+  {
+    "name": "3 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 3 of Wands",
+    "reversed": "Reversed meaning of 3 of Wands"
+  },
+  {
+    "name": "4 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 4 of Wands",
+    "reversed": "Reversed meaning of 4 of Wands"
+  },
+  {
+    "name": "5 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 5 of Wands",
+    "reversed": "Reversed meaning of 5 of Wands"
+  },
+  {
+    "name": "6 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 6 of Wands",
+    "reversed": "Reversed meaning of 6 of Wands"
+  },
+  {
+    "name": "7 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 7 of Wands",
+    "reversed": "Reversed meaning of 7 of Wands"
+  },
+  {
+    "name": "8 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 8 of Wands",
+    "reversed": "Reversed meaning of 8 of Wands"
+  },
+  {
+    "name": "9 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 9 of Wands",
+    "reversed": "Reversed meaning of 9 of Wands"
+  },
+  {
+    "name": "10 of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of 10 of Wands",
+    "reversed": "Reversed meaning of 10 of Wands"
+  },
+  {
+    "name": "Page of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of Page of Wands",
+    "reversed": "Reversed meaning of Page of Wands"
+  },
+  {
+    "name": "Knight of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of Knight of Wands",
+    "reversed": "Reversed meaning of Knight of Wands"
+  },
+  {
+    "name": "Queen of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of Queen of Wands",
+    "reversed": "Reversed meaning of Queen of Wands"
+  },
+  {
+    "name": "King of Wands",
+    "suit": "Wands",
+    "upright": "Upright meaning of King of Wands",
+    "reversed": "Reversed meaning of King of Wands"
+  },
+  {
+    "name": "Ace of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of Ace of Cups",
+    "reversed": "Reversed meaning of Ace of Cups"
+  },
+  {
+    "name": "2 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 2 of Cups",
+    "reversed": "Reversed meaning of 2 of Cups"
+  },
+  {
+    "name": "3 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 3 of Cups",
+    "reversed": "Reversed meaning of 3 of Cups"
+  },
+  {
+    "name": "4 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 4 of Cups",
+    "reversed": "Reversed meaning of 4 of Cups"
+  },
+  {
+    "name": "5 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 5 of Cups",
+    "reversed": "Reversed meaning of 5 of Cups"
+  },
+  {
+    "name": "6 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 6 of Cups",
+    "reversed": "Reversed meaning of 6 of Cups"
+  },
+  {
+    "name": "7 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 7 of Cups",
+    "reversed": "Reversed meaning of 7 of Cups"
+  },
+  {
+    "name": "8 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 8 of Cups",
+    "reversed": "Reversed meaning of 8 of Cups"
+  },
+  {
+    "name": "9 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 9 of Cups",
+    "reversed": "Reversed meaning of 9 of Cups"
+  },
+  {
+    "name": "10 of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of 10 of Cups",
+    "reversed": "Reversed meaning of 10 of Cups"
+  },
+  {
+    "name": "Page of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of Page of Cups",
+    "reversed": "Reversed meaning of Page of Cups"
+  },
+  {
+    "name": "Knight of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of Knight of Cups",
+    "reversed": "Reversed meaning of Knight of Cups"
+  },
+  {
+    "name": "Queen of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of Queen of Cups",
+    "reversed": "Reversed meaning of Queen of Cups"
+  },
+  {
+    "name": "King of Cups",
+    "suit": "Cups",
+    "upright": "Upright meaning of King of Cups",
+    "reversed": "Reversed meaning of King of Cups"
+  },
+  {
+    "name": "Ace of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of Ace of Swords",
+    "reversed": "Reversed meaning of Ace of Swords"
+  },
+  {
+    "name": "2 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 2 of Swords",
+    "reversed": "Reversed meaning of 2 of Swords"
+  },
+  {
+    "name": "3 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 3 of Swords",
+    "reversed": "Reversed meaning of 3 of Swords"
+  },
+  {
+    "name": "4 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 4 of Swords",
+    "reversed": "Reversed meaning of 4 of Swords"
+  },
+  {
+    "name": "5 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 5 of Swords",
+    "reversed": "Reversed meaning of 5 of Swords"
+  },
+  {
+    "name": "6 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 6 of Swords",
+    "reversed": "Reversed meaning of 6 of Swords"
+  },
+  {
+    "name": "7 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 7 of Swords",
+    "reversed": "Reversed meaning of 7 of Swords"
+  },
+  {
+    "name": "8 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 8 of Swords",
+    "reversed": "Reversed meaning of 8 of Swords"
+  },
+  {
+    "name": "9 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 9 of Swords",
+    "reversed": "Reversed meaning of 9 of Swords"
+  },
+  {
+    "name": "10 of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of 10 of Swords",
+    "reversed": "Reversed meaning of 10 of Swords"
+  },
+  {
+    "name": "Page of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of Page of Swords",
+    "reversed": "Reversed meaning of Page of Swords"
+  },
+  {
+    "name": "Knight of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of Knight of Swords",
+    "reversed": "Reversed meaning of Knight of Swords"
+  },
+  {
+    "name": "Queen of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of Queen of Swords",
+    "reversed": "Reversed meaning of Queen of Swords"
+  },
+  {
+    "name": "King of Swords",
+    "suit": "Swords",
+    "upright": "Upright meaning of King of Swords",
+    "reversed": "Reversed meaning of King of Swords"
+  },
+  {
+    "name": "Ace of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of Ace of Pentacles",
+    "reversed": "Reversed meaning of Ace of Pentacles"
+  },
+  {
+    "name": "2 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 2 of Pentacles",
+    "reversed": "Reversed meaning of 2 of Pentacles"
+  },
+  {
+    "name": "3 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 3 of Pentacles",
+    "reversed": "Reversed meaning of 3 of Pentacles"
+  },
+  {
+    "name": "4 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 4 of Pentacles",
+    "reversed": "Reversed meaning of 4 of Pentacles"
+  },
+  {
+    "name": "5 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 5 of Pentacles",
+    "reversed": "Reversed meaning of 5 of Pentacles"
+  },
+  {
+    "name": "6 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 6 of Pentacles",
+    "reversed": "Reversed meaning of 6 of Pentacles"
+  },
+  {
+    "name": "7 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 7 of Pentacles",
+    "reversed": "Reversed meaning of 7 of Pentacles"
+  },
+  {
+    "name": "8 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 8 of Pentacles",
+    "reversed": "Reversed meaning of 8 of Pentacles"
+  },
+  {
+    "name": "9 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 9 of Pentacles",
+    "reversed": "Reversed meaning of 9 of Pentacles"
+  },
+  {
+    "name": "10 of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of 10 of Pentacles",
+    "reversed": "Reversed meaning of 10 of Pentacles"
+  },
+  {
+    "name": "Page of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of Page of Pentacles",
+    "reversed": "Reversed meaning of Page of Pentacles"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of Knight of Pentacles",
+    "reversed": "Reversed meaning of Knight of Pentacles"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of Queen of Pentacles",
+    "reversed": "Reversed meaning of Queen of Pentacles"
+  },
+  {
+    "name": "King of Pentacles",
+    "suit": "Pentacles",
+    "upright": "Upright meaning of King of Pentacles",
+    "reversed": "Reversed meaning of King of Pentacles"
+  }
+]
