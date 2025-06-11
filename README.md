@@ -41,7 +41,7 @@ A Python application for Android (via Pydroid3) that calculates and displays you
 
 ## Installation
 
-1. **Clone the repo**  
-   bash
+1. **Clone the repo**
+   
    git clone https://github.com/YourUsername/mayan-calendar-app.git
    cd mayan-calendar-app
